@@ -9,5 +9,7 @@ NB: You may want to have node install on your system, to see the output result o
 
 Example: 
 Run: `node urlify.js`
+
+====================================
 Output: Mr%20John%20Smith
 
